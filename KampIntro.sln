@@ -25,6 +25,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homeworks", "Homeworks", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionaryHomework", "MyDictionaryHomework\MyDictionaryHomework.csproj", "{93420948-77EF-4353-B02B-85DB0FF27F4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{FDC5A125-D3CC-4A49-ADFD-5C2708455076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{37DEF79D-0EC8-4511-8535-E8F44BFEDDA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +75,14 @@ Global
 		{93420948-77EF-4353-B02B-85DB0FF27F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93420948-77EF-4353-B02B-85DB0FF27F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93420948-77EF-4353-B02B-85DB0FF27F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDC5A125-D3CC-4A49-ADFD-5C2708455076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC5A125-D3CC-4A49-ADFD-5C2708455076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC5A125-D3CC-4A49-ADFD-5C2708455076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC5A125-D3CC-4A49-ADFD-5C2708455076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37DEF79D-0EC8-4511-8535-E8F44BFEDDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37DEF79D-0EC8-4511-8535-E8F44BFEDDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37DEF79D-0EC8-4511-8535-E8F44BFEDDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37DEF79D-0EC8-4511-8535-E8F44BFEDDA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
